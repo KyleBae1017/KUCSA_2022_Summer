@@ -15,6 +15,7 @@
 
 ## References
 - [Linear Algebra / Stephen H. Firedberg, Arnold J. Insel, Lawrence E. Spence / Fifth Edition](https://www.amazon.com/Linear-Algebra-5th-Stephen-Friedberg/dp/0134860241)
+- [프리드버그 선형대수학 5판](http://www.yes24.com/Product/Goods/90460407) - 위 도서의 번역본으로 해당 번역본의 번역 퀄리티가 상당히 높다는 평이 많았습니다. 영어 원문으로 학습하시기가 불편하신 분께서는 해당 책을 이용하시는 것도 좋을 것 같습니다.
 
 ## Goal & Topics
 전산수학1에서 다루지 않았던 선형대수학 관련 개념들을 이해하는 것을 목표로 합니다.
