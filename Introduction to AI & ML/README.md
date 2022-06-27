@@ -55,6 +55,6 @@ Pacman AI 개발과 관련된 4개의 과제 + Machine Learning 과제 1개가 �
 |Week 3|Game Tree (2) + Algorithms Based on Uncertainty (1) : Expectimax Game Tree||
 |Week 4|Algorithms Based on Uncertainty (2) : Markov Decision Process (1)|Assignment 2|
 |Week 5|Algorithms Based on Uncertainty (3) : Markov Decision Process (2) + Reinforcement Learning (1)|Assignment 3|
-|Week 6|Reinforcement Learning (2)||
-|Week 7|Machine Learning (1)|Assignment 4|
+|Week 6|Reinforcement Learning (2)|Assignment 4|
+|Week 7|Machine Learning (1)||
 |Week 8|Machine Learning (2)|Assignment 5|
