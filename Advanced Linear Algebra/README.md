@@ -3,7 +3,7 @@
 ## Logistics
 - Tutor: [Minseong Bae](https://github.com/KyleBae1017) (bms2002@korea.ac.kr)
 - Time: TBD (일주일에 약 2-3시간 희망)
-- Location: TBD (비대면 희망)
+- Location: TBD
 
 ## Abstract
 선형대수학은 벡터 공간 및 행렬, 연립 선형 방정식 등 선형성을 기반으로 한 다양한 수학적 개념에 대해 다루는 학문으로서 AI, 컴퓨터 그래픽 등 다양한 컴퓨터과학 분야에서 매우 중요한 역할을 수행하고 있습니다.
