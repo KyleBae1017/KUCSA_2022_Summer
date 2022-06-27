@@ -4,8 +4,8 @@
 
 ## Logistics
 - Tutor: [Minseong Bae](https://github.com/KyleBae1017) (bms2002@korea.ac.kr)
-- Time: TBD
-- Location: TBD (대면 희망)
+- Time: TBD (일주일 1-2시간 희망)
+- Location: TBD
 
 ## Abstract
 확률과 통계는 컴퓨터과학에 있어서 선형대수학과 함께 가장 중요한 기초가 되는 수학 분야라고 할 수 있습니다.
