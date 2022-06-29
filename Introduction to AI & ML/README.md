@@ -4,8 +4,8 @@
 
 ## Logistics
 - Tutor: [Minseong Bae](https://github.com/KyleBae1017) (bms2002@korea.ac.kr)
-- Time: TBD (일주일 2시간 희망)
-- Location: TBD (대면 희망)
+- Time: 매주 수, 목요일 오후 2시 ~ 오후 3시
+- Location: TBD (대면)
 
 ## Abstract
 
