@@ -2,7 +2,7 @@
 
 ## Logistics
 - Tutor: [Byeongwoo Jeon](https://github.com/rootyJeon) (ipcs@korea.ac.kr)
-- Time: 매주 목요일 오후 5시 30분 ~ 오후 6시 30
+- Time: 매주 목요일 오후 5시 30분 ~ 오후 6시 30분
 - Location: TBD (대면)
 
 ## Abstract
