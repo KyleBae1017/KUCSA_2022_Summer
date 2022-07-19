@@ -38,9 +38,9 @@
 |:---:|:---:|
 |Week 1|Perfomance Analysis & Time Complexity, Sorting (1)|
 |Week 2|Arrays, Linked List, Stack & Queue|
-|Week 3|Tree, Binary Tree & Heap, Hash Table, Sorting (2)|
+|Week 3|Tree, Binary Tree & Heap, Sorting (2)|
 |Week 4|Binary Search Tree, Balanced Search Tree|
 |Week 5|Graph and Shortest-Path Algorithms|
 |Week 6|Minimum-Spanning Tree, Divide & Conquer|
 |Week 7|String, Dynamic Programming, Greedy Algorithm|
-|Week 8|NP-Completeness + Supplement|
+|Week 8|NP-Completeness + Supplement (Map & Hash Table, Skip List)|
